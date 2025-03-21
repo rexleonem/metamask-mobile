@@ -81,7 +81,6 @@ tests
 /sentry.release.properties
 
 # editor
-.vscode
 
 # CocoaPods
 /ios/Pods/
@@ -137,3 +136,4 @@ web-build/
 
 # CICD
 github-tools/
+config.bat
